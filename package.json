@@ -1,0 +1,19 @@
+{
+  "name": "node-kyto-heartrate",
+  "version": "0.1.0",
+  "description": "Node package for kyto heartrate sensor",
+  "main": "index.js",
+  "keywords": [
+    "kyto",
+    "heartrate",
+    "node"
+  ],
+  "author": "Ricardo Mendes <ricardo.mendes@ua.pt>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.6.0",
+    "merge": "^1.2.0",
+    "mqtt": "^2.6.2",
+    "noble": "^1.7.0"
+  }
+}
